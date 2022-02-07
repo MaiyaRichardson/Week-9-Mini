@@ -11,25 +11,28 @@ object Main {
           println("Please enter in your pet's name '\n'")
           scanner.nextLine()
 
-          if (!(scanner.equals(""))
+          if (!(scanner.equals("")))
             throw new BadUserEntryException
           
-            
-
+     
         }catch{
-          case bue: BadUserEntryException => println("You did not enter in a name! Try again ")
+          case bue: BadUserEntryException => {
+              println("You did not enter in a name! Try again ")
+          }
         }
 
         try {
           println("Please enter in your pet's age '\n'")
           scanner.nextInt()
 
-          if(!(scanner.hasNextInt()))
+          if(!(scanner.hasNextInt())){
             throw new BadUserEntryException
-          
-            
+          }
+ 
         }catch {
-          case bue: BadUserEntryException => println("You did not enter in your pet's age! Try again ")
+          case bue: BadUserEntryException => {
+              println("You did not enter in your pet's age! Try again ")
+          }
         }
       }
   }

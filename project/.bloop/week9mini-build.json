@@ -2,15 +2,15 @@
     "version": "1.4.0",
     "project": {
         "name": "week9mini-build",
-        "directory": "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\project",
-        "workspaceDir": "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\project",
+        "directory": "C:\\Users\\user\\Desktop\\week9mini\\project",
+        "workspaceDir": "C:\\Users\\user\\Desktop\\week9mini\\project",
         "sources": [
-            "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\project\\src\\main\\scala",
-            "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\project\\src\\main\\scala-2.12",
-            "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\project\\src\\main\\scala-2",
-            "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\project\\src\\main\\java",
-            "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\project\\src\\main\\scala-sbt-1.0",
-            "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\project\\target\\scala-2.12\\sbt-1.0\\src_managed\\main"
+            "C:\\Users\\user\\Desktop\\week9mini\\project\\src\\main\\scala",
+            "C:\\Users\\user\\Desktop\\week9mini\\project\\src\\main\\scala-2.12",
+            "C:\\Users\\user\\Desktop\\week9mini\\project\\src\\main\\scala-2",
+            "C:\\Users\\user\\Desktop\\week9mini\\project\\src\\main\\java",
+            "C:\\Users\\user\\Desktop\\week9mini\\project\\src\\main\\scala-sbt-1.0",
+            "C:\\Users\\user\\Desktop\\week9mini\\project\\target\\scala-2.12\\sbt-1.0\\src_managed\\main"
         ],
         "dependencies": [
             
@@ -105,11 +105,11 @@
             "C:\\Users\\user\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\squareup\\okio\\okio\\1.17.2\\okio-1.17.2.jar",
             "C:\\Users\\user\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\typesafe\\config\\1.3.3\\config-1.3.3.jar"
         ],
-        "out": "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\project\\.bloop\\week9mini-build",
-        "classesDir": "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\project\\.bloop\\week9mini-build\\scala-2.12\\sbt-1.0\\classes",
+        "out": "C:\\Users\\user\\Desktop\\week9mini\\project\\.bloop\\week9mini-build",
+        "classesDir": "C:\\Users\\user\\Desktop\\week9mini\\project\\.bloop\\week9mini-build\\scala-2.12\\sbt-1.0\\classes",
         "resources": [
-            "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\project\\src\\main\\resources",
-            "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\project\\target\\scala-2.12\\sbt-1.0\\resource_managed\\main"
+            "C:\\Users\\user\\Desktop\\week9mini\\project\\src\\main\\resources",
+            "C:\\Users\\user\\Desktop\\week9mini\\project\\target\\scala-2.12\\sbt-1.0\\resource_managed\\main"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -202,7 +202,7 @@
             "config": {
                 "home": "C:\\Program Files\\Java\\jdk1.8.0_202\\jre",
                 "options": [
-                    "-Duser.dir=C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\project"
+                    "-Duser.dir=C:\\Users\\user\\Desktop\\week9mini\\project"
                 ]
             },
             "mainClass": [

@@ -2,28 +2,28 @@
     "version": "1.4.0",
     "project": {
         "name": "week9mini-test",
-        "directory": "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini",
-        "workspaceDir": "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini",
+        "directory": "C:\\Users\\user\\Desktop\\week9mini",
+        "workspaceDir": "C:\\Users\\user\\Desktop\\week9mini",
         "sources": [
-            "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\src\\test\\scala",
-            "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\src\\test\\scala-2.13",
-            "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\src\\test\\scala-2",
-            "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\src\\test\\java",
-            "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\target\\scala-2.13\\src_managed\\test"
+            "C:\\Users\\user\\Desktop\\week9mini\\src\\test\\scala",
+            "C:\\Users\\user\\Desktop\\week9mini\\src\\test\\scala-2.13",
+            "C:\\Users\\user\\Desktop\\week9mini\\src\\test\\scala-2",
+            "C:\\Users\\user\\Desktop\\week9mini\\src\\test\\java",
+            "C:\\Users\\user\\Desktop\\week9mini\\target\\scala-2.13\\src_managed\\test"
         ],
         "dependencies": [
             "week9mini"
         ],
         "classpath": [
-            "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\.bloop\\week9mini\\scala-2.13\\classes",
+            "C:\\Users\\user\\Desktop\\week9mini\\.bloop\\week9mini\\scala-2.13\\classes",
             "C:\\Users\\user\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.3\\scala-library-2.13.3.jar",
             "C:\\Users\\user\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-parser-combinators_2.13\\1.1.2\\scala-parser-combinators_2.13-1.1.2.jar"
         ],
-        "out": "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\.bloop\\week9mini",
-        "classesDir": "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\.bloop\\week9mini\\scala-2.13\\test-classes",
+        "out": "C:\\Users\\user\\Desktop\\week9mini\\.bloop\\week9mini",
+        "classesDir": "C:\\Users\\user\\Desktop\\week9mini\\.bloop\\week9mini\\scala-2.13\\test-classes",
         "resources": [
-            "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\src\\test\\resources",
-            "C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini\\target\\scala-2.13\\resource_managed\\test"
+            "C:\\Users\\user\\Desktop\\week9mini\\src\\test\\resources",
+            "C:\\Users\\user\\Desktop\\week9mini\\target\\scala-2.13\\resource_managed\\test"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -102,7 +102,7 @@
             "config": {
                 "home": "C:\\Program Files\\Java\\jdk1.8.0_202\\jre",
                 "options": [
-                    "-Duser.dir=C:\\Users\\user\\Desktop\\Mai'sGitRepo\\week9mini"
+                    "-Duser.dir=C:\\Users\\user\\Desktop\\week9mini"
                 ]
             },
             "mainClass": [
